@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569696117 source:c:\files\workspace\c++\homework\graph1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<string>
+
